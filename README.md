@@ -56,3 +56,7 @@ https://www.novypro.com/project/tradexpress-business-analysis-
 # Tableau Dahsboard 
 
 https://www.novypro.com/project/tradexpress-supply-chain-analysis 
+
+# Team 
+
+Shrouk Fouad & Maryam Monsef & Kawther Ahmed & Amr Soliman & Mohamed Zaidan
