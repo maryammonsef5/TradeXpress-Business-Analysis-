@@ -14,6 +14,8 @@ Employees Performance​
 
 Market of different countries​
 
+Prior to the Analysis a Transactional DB Model had to be created by taking Business Requirements and turning them into an ERD followed by the creation of the tables for the data. Then a DWH Model was created and ETL process was performed using SSIS to create a Single Point of Truth in the DWH.
+
 This is an Overview of the Business and its performance
 
 ![OverView](https://github.com/maryammonsef5/TradeXpress-Business-Analysis-/assets/122568540/6f2550ed-846a-42c3-9c11-43831cb37a34)
